@@ -24,6 +24,22 @@ Soft and Tough.
 Soft, Tough and Soft.
 Soft, Tough, Soft, Soft and Tough.
 ```
+To view more details about the script
+
+`python main.py -h`
+
+Output:
+
+```
+usage: main.py [-h] text numbers [numbers ...]
+
+positional arguments:
+  text        Enter string of S and T to format output
+  numbers     Enter a sequence of integers separated by a space
+
+options:
+  -h, --help  show this help message and exit
+```
 
 ## Running tests
 
