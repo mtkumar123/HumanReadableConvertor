@@ -45,7 +45,7 @@ options:
 
 Tests have been written using pytest. Make sure pytest is installed - requirements-dev.txt has the requirement if need be. Make sure you are in the project root folder:
 
-1. pip install requirements-dev.txt
+1. pip install -r requirements-dev.txt
 2. pytest .
 
 You should see all tests passing:
