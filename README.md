@@ -61,3 +61,6 @@ test_main.py ......
 Time taken: ~3 hours  
 Writing the code took around 1.5 hours. I think I started off with using quotient and remainder approach first, but then realized this would be better as a recursive function. Had to do some reading of the argparse library documentation. Overall I think it was straightforward.
 Writing the test cases and documentation took another 1.5 hours.
+
+### Assumptions 
+- If integer provided is a negative or 0 number then a blank string is outputted.
