@@ -2,10 +2,10 @@
 
 Create a python script that accepts command line arguments. The first argument will be a string with characters of only S and T. The second argument will be a variable sequence of integers. Using the input arguments output a string where S is Soft and T is Tough following the string pattern provided with a length determined by the input integer.
 
-Example input:
+Example input:  
 SST 5 2
 
-Example output:
+Example output:  
 Soft, Soft, Tough, Soft and Soft.  
 Soft and Soft.
 
